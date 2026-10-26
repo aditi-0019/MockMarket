@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+pandas
+numpy
+joblib
+scikit-learn==1.6.1
+yfinance
+vaderSentiment

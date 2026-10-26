@@ -1,0 +1,64 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+backend/.pytest_cache/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Database
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-*
+
+# ML models
+backend/models/*.pkl
+backend/models/*.joblib
+backend/models/*.h5
+backend/models/*.keras
+
+# Datasets
+data/
+dataset/
+datasets/
+raw/
+cleaned/
+*.csv
+*.parquet
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
