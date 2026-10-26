@@ -12,3 +12,4 @@ joblib
 scikit-learn==1.6.1
 yfinance
 vaderSentiment
+certifi>=2026.10.19
