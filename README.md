@@ -1,5 +1,7 @@
 # MockMarket
 
+Built by [@aditi-0019](https://github.com/aditi-0019).
+
 MockMarket is a learning-focused virtual stock trading and portfolio management
 application. It combines a React dashboard with a FastAPI backend and uses
 virtual funds to explore market data, portfolio performance, risk, and
